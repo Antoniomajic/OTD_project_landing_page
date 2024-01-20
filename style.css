@@ -63,3 +63,15 @@ body{
     flex-direction: column;
 }
 
+.mainText,
+.secText{
+    padding-bottom: 7px;
+}
+
+.sign_up_1{
+    background-color: #3882F6;
+    color: white;
+    border-radius: 12px;
+    width: 100px;
+    height: 25px;
+}
